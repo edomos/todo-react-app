@@ -16,6 +16,12 @@ function App() {
 
   const [todos, setTodos] = useState(['learn react', 'DSA'])
 
+//CRUD
+  //create todo
+  //read todo from firebase
+  //update todo in firebase
+  //delete todo 
+
   return (
     <div className={style.bg}>
       <div className={style.container}>
